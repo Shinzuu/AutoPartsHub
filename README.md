@@ -8,19 +8,27 @@ To use AutoPartsHubs, follow these steps:
 
 1. Clone the repository to your local machine:
 
-    `git clone https://github.com/Shinzuu/AutoPartsHub.git`
+    ```
+    git clone https://github.com/Shinzuu/AutoPartsHub.git
+    ```
 
 2. Navigate to the project directory:
 
-    `cd AutoPartsHub`
+    ```
+    cd AutoPartsHub
+    ```
 
 3. Compile the Java files:
 
-    `javac src/*.java`
+    ```
+    javac src/*.java
+    ```
 
 4. Run the application:
 
-    `java src/Main`
+    ```
+    java src/Main
+    ```
 
 ## Usage
 

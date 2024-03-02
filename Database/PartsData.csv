@@ -1,0 +1,37 @@
+ID,Name,Type,Brand,Price,Volume,Special
+1000,2JZ-GTE,Engine,Toyota,16000,0,1900
+1001,RB26DETT,Engine,Nissan,69000,2,2140
+1002,EJ20K,Engine,Subaru,9599,3,780
+1003,13B-REW,Engine,Mazda,12500,4,850
+1004,K20-KT1200,Engine,Honda,13500,5,920
+1005,GTX 03,Wheels,SSR,300,6,18
+1006,Speed Star MK-|||,Wheels,SSR,450,7,15
+1007,Vienna Noble,Wheels,SSR,240,8,18
+1008,INTEGRAL GT,Wheels,SSR,270,9,17
+1009,REV NT03RR,Wheels,ENKEI,400,10,21
+1010,GTC01RP,Wheels,ENKEI,450,11,18
+1011,SPORT RC-T5,Wheels,ENKEI,300,12,17
+1012,Type ST,Wheels,HAYASHI,500,13,18
+1013,ADVAN BEYOND,Wheels,YOKOHAMA,1250,14,19
+1014,ADVAN GT,Wheels,YOKOHAMA,1300,15,21
+1015,T88/T88H,Turbo,Greddy,3100,16,9.5
+1016,Replacement Turbo,Turbo,Blitz,1800,17,7
+1017,TD-06SH,Turbo,Greddy,2100,18,7.5
+1018,GTIII-5R,Turbo,HKS,3300,19,11
+1019,RHB31FW,Turbo,Monster Sport,2250,20,8
+1020,Power FC,ECU,APEXi,1740,21
+1021,Power FC D-Jetro,ECU,APEXi,1140,22
+1022,Sport ECU,ECU,D Sport,890,23
+1023,VX-ROM - R35,ECU,Mines,2750,24
+1024,Exclusive Base Mount Kit,Rear Wing,Voltex,1250,25,Carbon-FIber,
+1025,GT-Wing Type 5V,Rear Wing,Voltex,4490,26,Carbon-FIber,
+1026,Swan Neck Base,Rear Wing,Voltex,550,27,Aluminium,
+1027,GT-Wing Type 5,Rear Wing,Voltex,4690,28,Plexi-glass,
+1028,Power Wing,Rear Wing,326 Power,390,29,Aluminium,
+1029,GT- Wing Type 12 SN,Rear Wing,Voltex,1860,30,Carbon-FIber,
+1030,86 Series 2,Aero Kit,Toyota,3870,31,Red
+1031,MR2 SW20,Aero Kit,Greddy,640,32,White
+1032,R33 GTR,Aero Kit,Nissan,2100,5,Cyan
+1033,S2000 wide body,Aero Kit,J's Racing,6140,6,Black
+1034,Aero- Street Version 1,Aero Kit,Voltex,3310,666,White
+1035,testing admin,engine,nissan,900,8,0909

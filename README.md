@@ -27,7 +27,7 @@ To use AutoPartsHubs, follow these steps:
 4. Run the application:
 
     ```bash
-    java src/Main
+    java Main
     ```
 
 ## Usage
